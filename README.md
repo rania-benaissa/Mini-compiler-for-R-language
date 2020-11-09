@@ -8,9 +8,9 @@
 * [Exemple](#exemple)
 
 ## Features
-This project is a simple compiler for R language. It includes a:
-* Lexical analyzer.
-* Parser.
+This project is a simple compiler for R language. It includes:
+* A lexical analyzer.
+* A parser.
 * Symbols table generation.
 * Semantic errors detection such as:
   * Division by zero.
