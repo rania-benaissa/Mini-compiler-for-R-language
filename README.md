@@ -72,13 +72,13 @@ WHILE ( (AB != 0) )
 
 ### Generated symbols table
 
-![Symbols Table](images\table_des_symboles.png)
+![Symbols Table](\images\table_des_symboles.png)
 
 ### Generated intermediate code ( quadruples )
 
-![Quadruples Table](images\table_des_quadruplets.png)
+![Quadruples Table](\images\table_des_quadruplets.png)
 
 ### Generated code in assembly
 
-![Assembly code](images\code_objet.png)
+![Assembly code](\images\code_objet.png)
 
