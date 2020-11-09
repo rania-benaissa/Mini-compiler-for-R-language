@@ -49,7 +49,7 @@ $ compil <test.txt
 
 ## Exemple
 
-Let's compile the following code exemple writing in R (test.txt file). 
+Let's compile the following code exemple writing in R (in test.txt file). 
 
 ```R
 
