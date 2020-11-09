@@ -1,15 +1,16 @@
 
-#Test TP compilation 
+#This is a test 
 
 INTEGER AB <- 2
-INTEGER BA
+
 NUMERIC C <- 385.5
+
 INTEGER ABBA
-D <- AB - 5 + BA * 2 * ABBA
+
+D <- AB - 5 + 2 * ABBA
 WHILE ( (AB != 0) )
 {
-     D <- IFELSE( (C > 0.0) , C/5.0 , 1)
-     AB -<- 1
+  
      C <- C/2.0
 }
 
