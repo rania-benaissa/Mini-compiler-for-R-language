@@ -2,10 +2,15 @@
  A mini-compiler for R language using C, Flex and Bison
 
 ## Table of contents
+* [context](#context)
 * [Features](#features)
 * [Technologies](#technologies)
 * [Usage](#usage)
 * [Exemple](#exemple)
+
+## Context
+
+This project is a part of the compilation cours taken in M1 at USTHB. For further explanations, please check the  and [project description (in french)](project_description.pdf) and the  [project report (in french)](project_report.pdf).
 
 ## Features
 This project is a simple compiler for R language. It includes:
