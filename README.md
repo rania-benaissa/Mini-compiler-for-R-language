@@ -10,7 +10,7 @@
 
 ## Context
 
-This project is a part of the compilation cours taken in M1 at USTHB. For further explanations, please check the  and [project description (in french)](project_description.pdf) and the  [project report (in french)](project_report.pdf).
+This project is a part of the compilation lectures taken in M1 at USTHB. For further explanations, please check the [project description (in french)](project_description.pdf) and the [project report (in french)](project_report.pdf).
 
 ## Features
 This project is a simple compiler for R language. It includes:
